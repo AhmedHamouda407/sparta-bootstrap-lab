@@ -1,12 +1,10 @@
 .jumbotron {
   background: url("../img/circuit.jpg");
-text-align: center;
+  text-align: center;
+  color: white;
 }
 .navbar{
   margin: 0;
-}
-.jumbotron{
-  color: white
 }
 
 .img {
