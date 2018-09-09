@@ -1,0 +1,69 @@
+.jumbotron {
+  background: url("../img/circuit.jpg");
+  text-align: center;
+  color: white;
+  margin-bottom: 0px;
+}
+.navbar{
+  margin: 0;
+}
+
+.img {
+  height: 200px;
+  width: 300px;
+}
+
+.row {
+  background: yellow;
+  margin: 0;
+}
+
+/*.mod h2 {
+  color: blue;
+  text-align: center;
+} */
+
+.spec {
+  color: grey;
+  text-align: center
+}
+.spec {
+  background: red;
+}
+
+.end {
+  background: orange;
+}
+
+.pg1heading {
+  background: url("../img/circuit.jpg");
+text-align: center
+}
+/* https://www.channelpartnersonline.com/files/2017/08/Network-Circuits-770x285.jpg */
+.form-group {
+  padding-top: 0.5px;
+}
+
+.w3-card-4 {
+  margin-top: 50px;
+}
+
+.btn  {
+  margin-left: 100px;
+}
+.mds {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.table {
+  margin-bottom: 0px;
+}
+
+.footermarg {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.winsection {
+  background: grey;
+}
